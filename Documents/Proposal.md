@@ -7,7 +7,7 @@ Loan Status Classification Here in this notebook we take a look at the data from
 
 
 ## Data:
-The data for this project will be read into a CSV file, The dataset provided in Kaggle. ( you can find the dataset [HERE](https://www.kaggle.com/panamby/bank-loan-status-dataset/data?select=credit_train.csv) ).
+The data for this project will be read into a CSV file, The dataset provided in Kaggle. ( you can find the dataset [HERE](https://www.kaggle.com/zaurbegiev/my-dataset) ).
 The obtained dataset consists of over 110,000 loan records with 18 features. Some of them may effect on our target (type of loan term) such as: the loan amount, the purpose of the loan, and the customer's annual income… etc.
 
 
