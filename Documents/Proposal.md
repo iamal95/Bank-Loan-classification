@@ -3,7 +3,7 @@
 ---
 
 ## Description:
-Loan Status Classification Here in this notebook we take a look at the data from a bank/financial organization of all their loans. We explore various features about the borrowers like credit score, mortgage, annual income, years of employment and try to train our classifer to predict if the loan would be paid or not.
+The loan is one of the most important schemes of banks and it can be short term or long term, depending on the purpose of the loan. For example, if the loan is for buying a house, then most probably it will be a long term loan. To be more specific, short term loans are called such because of how quickly the loan needs to be paid off. In most cases, it must be paid off within two years. Any longer loan than that is considered a long term loan.
 
 
 ## Data:
