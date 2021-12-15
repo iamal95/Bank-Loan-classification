@@ -6,3 +6,4 @@ as part of T5 Bootcamp, [Soad](https://github.com/SoaadM), [Muzoon](https://gith
 
 - ### [Project Proposal.](https://github.com/iamal95/Bank_Loan_classification/blob/main/Documents/Proposal.md)
 - ### [Project MVP.](https://github.com/iamal95/Bank-Loan-classification/blob/main/Documents/MVP.md)
+- ### [Project Documention.](https://github.com/iamal95/Bank-Loan-classification/blob/main/Documents/Documention.md)
