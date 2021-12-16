@@ -32,7 +32,10 @@ The classification algorithms that has been used in this project:
 - Sklearn
 - Seaborn
 - Matplotlib
+- imblearn
+- mlxtend
+- xgboost
 
 ## Communication
-The project process and result has presented. To see the presentation slides click 
+The project process and result has presented. To see the presentation slides click [HERE](https://github.com/iamal95/Bank-Loan-classification/blob/main/Documents/BankLoan%20Presentation.pdf).
 
